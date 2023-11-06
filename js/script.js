@@ -57,7 +57,7 @@ let infoElem = "";
 for(let i = 0; i < teamMembers.length; i++) {
     const curInfo = teamMembers[i];
     infoElem += `<div class="col">
-                        <div class="card">
+                        <div class="card mt-4">
                              <img src="${curInfo.image}" class="card-img-top">
                              <div class="card-body">
                                  <h5 class="text-name">${curInfo.name}</h5>  
