@@ -22,5 +22,6 @@ Trasformare la stringa foto in una immagine effettiva
 Organizzare i singoli membri in card/schede. Se non vi sentite particolarmente creativi, potete prendere uno spunto dallo screenshot allegato.
 
 **SVOLGIMENTO:**
-1. creare un array di oggetti per ogni persona con nome, ruolo e immagine
-2. 
+1. creare un array di oggetti per ogni persona con nome, ruolo e immagine;
+2. stampa in console le informazione di ogni persona usando il ciclo _for_ e _for in_;
+3. stampo le informazioni in pagina usando il ciclo _for_ 
