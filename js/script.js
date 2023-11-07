@@ -1,5 +1,3 @@
-let img = document.createElement("img");
-
 
 // array di oggetti
 const teamMembers = [
